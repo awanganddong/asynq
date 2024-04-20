@@ -5,13 +5,13 @@
 package cmd
 
 import (
+	"asynq/internal/errors"
 	"fmt"
 	"io"
 	"os"
 
 	"github.com/MakeNowJust/heredoc/v2"
 	"github.com/awanganddong/asynq"
-	"github.com/awanganddong/asynq/internal/errors"
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"
 )
