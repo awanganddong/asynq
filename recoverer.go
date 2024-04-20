@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hibiken/asynq/internal/base"
-	"github.com/hibiken/asynq/internal/errors"
-	"github.com/hibiken/asynq/internal/log"
+	"github.com/awanganddong/asynq/internal/base"
+	"github.com/awanganddong/asynq/internal/errors"
+	"github.com/awanganddong/asynq/internal/log"
 )
 
 type recoverer struct {

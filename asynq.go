@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hibiken/asynq/internal/base"
+	"github.com/awanganddong/asynq/internal/base"
 	"github.com/redis/go-redis/v9"
 )
 
