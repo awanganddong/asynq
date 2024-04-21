@@ -1,6 +1,6 @@
 module github.com/awanganddong/asynq
 
-go 1.22.1
+go 1.19.1
 
 require (
 	github.com/MakeNowJust/heredoc/v2 v2.0.1
