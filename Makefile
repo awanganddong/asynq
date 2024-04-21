@@ -5,3 +5,6 @@ proto: internal/proto/asynq.proto
 				 --go_out=$(ROOT_DIR)/internal/proto \
 				 --go_opt=module=github.com/awanganddong/asynq/internal/proto \
 				 $(ROOT_DIR)/internal/proto/asynq.proto
+
+
+
